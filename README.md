@@ -27,3 +27,5 @@ If you want to run this project locally, follow the steps below:
 cd portfolio-website
 
 open index.html
+
+To visit site live go to https://tshegor24.github.io/Personal-Portfolio/
