@@ -1,0 +1,37 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "A responsive personal portfolio website built with HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000 -o",
+    "dev": "live-server --port=8000",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "echo 'Deploy to your preferred hosting service'"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website",
+    "responsive",
+    "html",
+    "css",
+    "javascript",
+    "frontend",
+    "web-development"
+  ],
+  "author": "Tshegofatso Sekhotha",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/Personal-Portfolio-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/Personal-Portfolio-1/issues"
+  },
+  "homepage": "https://tshegor24.github.io/Personal-Portfolio/"
+} 
